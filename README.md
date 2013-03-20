@@ -3,4 +3,5 @@ ogrenci_takip_sitemi
 
 GitHub Repository Trial
 
-update
+update 1
+update 2
