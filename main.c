@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+// hadi bakalım kaptın olayı hemen :)
 #define BOS_KAYIT_KODU -1
 #define MAX_KAYIT_SAY 100
 
