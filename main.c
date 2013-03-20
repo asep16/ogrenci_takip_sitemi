@@ -29,6 +29,7 @@ int main()
 {
     FILE *fptr;
     int secenek;
+    int tes;
 
     if((fptr=fopen("urunler.dat","rb+"))==NULL)
     {
